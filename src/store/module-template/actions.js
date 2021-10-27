@@ -1,5 +1,5 @@
 
 
-// export const myAction = async () => {
+// export const myAction = async ({ commit }) => {
     
 // }

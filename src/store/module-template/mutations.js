@@ -1,5 +1,5 @@
 
 
-// export const myMutation = ({ commit }) => {
+// export const myMutation = (state) => {
     
 // }
